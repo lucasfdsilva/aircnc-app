@@ -1,4 +1,4 @@
-# AirCnC
+# AirCnC Project Intro
 This project was developed during the "Omnistack Week" which is a bootcamp promoted by "Rocketseat", a Brazilian coding institute.
 
 The development was focused on learning one of the most popular JavaScripts stacks: 
