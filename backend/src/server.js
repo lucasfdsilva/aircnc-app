@@ -12,7 +12,7 @@ const port=3333;
 //REQ.PARAMS = ACESSAR ROUTE PARAMS (PARA EDIÇÃO, DELETE)
 //REQ.BODY = ACESSAR CORPO DA REQUISIÇÃO (PARA CRIAÇÃO, EDIÇÃO)
 
-mongoose.connect('mongodb+srv://william:wjd123@cluster0-onnlg.mongodb.net/aircnc?retryWrites=true&w=majority',{
+mongoose.connect('mongodb+srv://omnistack:omnistack@omnistack-axwe1.mongodb.net/semana09?retryWrites=true&w=majority',{
     useNewUrlParser:true,
     useUnifiedTopology:true,
 });
